@@ -10,6 +10,6 @@ spec:
   project: default
   source:
     path: argocd-demo/python-manifests
-    repoURL: https://github.com/Oyindamola-victor/python-helloworld 
+    repoURL: https://github.com/Oyindamola-victor/python-helloworld/blob/main/ 
     targetRevision: HEAD
   syncPolicy: {}
